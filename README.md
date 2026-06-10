@@ -1,5 +1,6 @@
-![Banner](image/project_banner.png)
-🩺 Global Cancer Patient Analytics: Insights into Cancer Care, Outcomes, and Disparities
+# 🩺 Global Cancer Patient Analytics: Insights into Cancer Care, Outcomes, and Disparities
+
+![Banner](Image/project_banner.png)
 📌 Project Overview
 
 This project leverages advanced data analytics and global healthcare data to uncover actionable insights into cancer care, patient outcomes, and healthcare disparities. Using a comprehensive dataset of 50,000 cancer patient records collected across multiple countries from 2015 to 2024, the project aims to transform raw healthcare data into meaningful insights that can support data-driven decision-making in cancer research and healthcare management.
@@ -138,27 +139,45 @@ Jupyter Notebook
 
 ## Key Visualizations
 
-### Feature Importance
+### Feature Importance Analysis
 
-![Feature Importance](image/feature_importance.png)
+![Feature Importance](Image/feature_importance.png)
 
-### Cancer Severity Distribution
+### Smoking vs Cancer Severity
 
-![Severity Distribution](image/severity_distribution.png)
-
-### Smoking vs Severity
-
-![Smoking Analysis](image/smoking_vs_severity.png)
+![Smoking Analysis](Image/smoking_vs_severity.png)
 
 ### Treatment Cost by Country
 
-![Treatment Cost](image/treatment_cost_by_country.png)
+![Treatment Cost](Image/treatment_cost_by_country.png)
 
-### Correlation Heatmap
+### Age Distribution of Patients
 
-![Heatmap](image/correlation_heatmap.png)
+![Age Distribution](Image/age_distribution.png)
 
----
+### Country-wise Patient Distribution
+
+![Country Distribution](Image/country_distribution.png)
+
+### Cancer Type Distribution
+
+![Cancer Type Distribution](Image/cancer_type_distribution.png)
+
+### Cancer Stage Distribution
+
+![Cancer Stage Distribution](Image/cancer_stage_distribution.png)
+
+### Survival Years Distribution
+
+![Survival Years Distribution](Image/survival_years_distribution.png)
+
+### Treatment Cost vs Survival Analysis
+
+![Cost vs Survival](Image/cost_vs_survival.png)
+
+### Risk Factor Analysis
+
+![Risk Factor Analysis](Image/Risk%20Factor%20Analysis.png)
 
 ## Key Findings
 

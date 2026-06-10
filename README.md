@@ -1,4 +1,4 @@
-![Banner](images/project_banner.png)
+![Banner](image/project_banner.png)
 🩺 Global Cancer Patient Analytics: Insights into Cancer Care, Outcomes, and Disparities
 📌 Project Overview
 
@@ -140,23 +140,23 @@ Jupyter Notebook
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](image/feature_importance.png)
 
 ### Cancer Severity Distribution
 
-![Severity Distribution](images/severity_distribution.png)
+![Severity Distribution](image/severity_distribution.png)
 
 ### Smoking vs Severity
 
-![Smoking Analysis](images/smoking_vs_severity.png)
+![Smoking Analysis](image/smoking_vs_severity.png)
 
 ### Treatment Cost by Country
 
-![Treatment Cost](images/treatment_cost_by_country.png)
+![Treatment Cost](image/treatment_cost_by_country.png)
 
 ### Correlation Heatmap
 
-![Heatmap](images/correlation_heatmap.png)
+![Heatmap](image/correlation_heatmap.png)
 
 ---
 
@@ -200,8 +200,3 @@ Machine Learning models successfully identified the most influential risk variab
 ## Author
 
 Ajay Kumar
-
-Aspiring Data Analyst | Business Analyst | Data Scientist
-
-[def]: images/project_banner.png
-[def2]: images/project_banner.png
